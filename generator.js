@@ -57,14 +57,6 @@ const messages = {
            ],
 }
 
-/*
-console.log(messages.quotes[Math.round(Math.random() * messages.quotes.length)]);
-console.log(messages.facts[Math.round(Math.random() * messages.facts.length)]);
-console.log(messages.tips[Math.round(Math.random() * messages.tips.length)]);
-
-console.log(Math.round(Math.random() * messages.quotes.length));
-*/
-
 //Create an index of messages to use when randomly generating 
 const quotesIndex = messages.quotes.length - 1;
 const factsIndex = messages.facts.length - 1;
