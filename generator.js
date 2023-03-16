@@ -39,21 +39,21 @@ const messages = {
                 'Fact : Success is a journey, not a destination, and it requires ongoing effort and commitment to maintain.'
             ],
     tips : [
-        'Tip - Set clear goals: Define what success means to you and set specific and measurable goals to achieve it.',
-        'Tip - Create a plan: Develop a roadmap to achieve your goals and break it down into actionable steps.',        
-        'Tip - Take action: Take consistent and purposeful action towards your goals, and don\'t let fear or self-doubt hold you back.',        
-        'Tip - Stay focused: Avoid distractions and stay focused on your goals, even when faced with setbacks or obstacles.',        
-        'Tip - Develop good habits: Cultivate habits that support your success, such as regular exercise, good sleep habits, and a healthy diet.',        
-        'Tip - Learn from failure: Embrace failure as an opportunity to learn and grow, and use those lessons to make improvements and adjustments.',        
-        'Tip - Surround yourself with positive influences: Seek out people who inspire and motivate you, and avoid negative or toxic people who drain your energy.',        
-        'Tip - Continuously learn and improve: Read, take courses, seek out mentorship, and always strive to expand your knowledge and skills.',        
-        'Tip - Take risks: Don\'t be afraid to take calculated risks, try new things, and step outside of your comfort zone.',        
-        'Tip - Be resilient: Develop a resilient mindset that allows you to bounce back from setbacks and challenges.',        
-        'Tip - Practice self-care: Take care of your physical, emotional, and mental health by practicing self-care and self-compassion.',        
-        'Tip - Be persistent: Don\'t give up when faced with obstacles or challenges, and maintain a strong sense of determination and perseverance.',        
-        'Tip - Be accountable: Take ownership of your actions and decisions, and hold yourself accountable for your success.',        
-        'Tip - Build a support system: Surround yourself with a network of supportive friends, family, and colleagues who can provide encouragement and guidance.',        
-        'Tip - Celebrate your successes: Take time to acknowledge and celebrate your achievements along the way, and use that positive energy to fuel your continued success.'
+                'Tip - Set clear goals: Define what success means to you and set specific and measurable goals to achieve it.',
+                'Tip - Create a plan: Develop a roadmap to achieve your goals and break it down into actionable steps.',        
+                'Tip - Take action: Take consistent and purposeful action towards your goals, and don\'t let fear or self-doubt hold you back.',        
+                'Tip - Stay focused: Avoid distractions and stay focused on your goals, even when faced with setbacks or obstacles.',        
+                'Tip - Develop good habits: Cultivate habits that support your success, such as regular exercise, good sleep habits, and a healthy diet.',        
+                'Tip - Learn from failure: Embrace failure as an opportunity to learn and grow, and use those lessons to make improvements and adjustments.',        
+                'Tip - Surround yourself with positive influences: Seek out people who inspire and motivate you, and avoid negative or toxic people who drain your energy.',        
+                'Tip - Continuously learn and improve: Read, take courses, seek out mentorship, and always strive to expand your knowledge and skills.',        
+                'Tip - Take risks: Don\'t be afraid to take calculated risks, try new things, and step outside of your comfort zone.',        
+                'Tip - Be resilient: Develop a resilient mindset that allows you to bounce back from setbacks and challenges.',        
+                'Tip - Practice self-care: Take care of your physical, emotional, and mental health by practicing self-care and self-compassion.',        
+                'Tip - Be persistent: Don\'t give up when faced with obstacles or challenges, and maintain a strong sense of determination and perseverance.',        
+                'Tip - Be accountable: Take ownership of your actions and decisions, and hold yourself accountable for your success.',        
+                'Tip - Build a support system: Surround yourself with a network of supportive friends, family, and colleagues who can provide encouragement and guidance.',        
+                'Tip - Celebrate your successes: Take time to acknowledge and celebrate your achievements along the way, and use that positive energy to fuel your continued success.'
            ],
 }
 
